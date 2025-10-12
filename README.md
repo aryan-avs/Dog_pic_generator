@@ -9,13 +9,6 @@ A React-based web application that allows users to generate AI-powered images of
 - **User-Friendly Interface**: Simple and intuitive design for easy navigation.
 - **Fast Performance**: Built with React and Vite for a smooth user experience.
 
-## 📸 Screenshots
-
-![Dog Image Generator Interface](https://example.com/screenshot1.png)
-
-![Generated Dog Image](https://example.com/screenshot2.png)
-
-## 🛠️ Installation
 
 ### Prerequisites
 
