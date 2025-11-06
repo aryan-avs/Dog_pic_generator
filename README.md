@@ -23,3 +23,6 @@ A React-based web application that allows users to generate AI-powered images of
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/aryan-avs/Dog_pic-_generator.git
+
+**Live Site ** 
+https://dog-pic-generator.vercel.app
