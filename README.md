@@ -9,14 +9,17 @@ A React-based web application that allows users to generate AI-powered images of
 - **User-Friendly Interface**: Simple and intuitive design for easy navigation.
 - **Fast Performance**: Built with React and Vite for a smooth user experience.
 
+---
 
-### Prerequisites
+### 🧰 Prerequisites
 
 - Node.js (v14 or higher)
 - npm (v6 or higher)
 
-### Steps
+---
 
-1. Clone the repository:
+### ⚙️ Steps
+
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/aryan-avs/Dog_pic-_generator.git
